@@ -1,0 +1,27 @@
+{
+  "name": "saccept",
+  "version": "1.0.0",
+  "description": "semantic http accept parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yorkie/node-saccept.git"
+  },
+  "keywords": [
+    "semantic",
+    "http",
+    "accept"
+  ],
+  "author": "Yorkie Liu <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-saccept/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-saccept",
+  "dependencies": {
+    "semver": "^4.1.0"
+  }
+}
